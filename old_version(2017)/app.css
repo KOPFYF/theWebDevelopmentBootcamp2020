@@ -1,0 +1,42 @@
+h1 {
+	color: rgb(65, 20, 100);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 6px dashed purple;
+}
+
+h4 {
+	background: rgb(0, 20, 34);
+	color: rgba(0, 255, 0, 0.6);
+}
+
+body {
+	background: pink;
+	/*background: url(https://previews.123rf.com/images/prapann/prapann1805/prapann180500442/102152680-wooden-texture-wood-grain.jpg);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+li {
+	color: #54012F;
+}
+
+
+/*
+colours.neilorangepeel.com
+
+HEXADECIMAL - Base 16
+0-9A-F
+
+rgb
+rgb(0, 255, 0) = green
+
+rgba(0, 255, 0, 0.6) transparent
+
+FF0000 = red
+FFFFFF = white
+
+color picker
+*/

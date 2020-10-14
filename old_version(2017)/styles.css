@@ -1,0 +1,29 @@
+p {
+	font-family: Arial;
+	font-weight: bold; /* 100-800 */
+	line-height: 1.5;
+	text-decoration: underline;
+}
+
+h1 {
+	font-family: Arial; 
+	text-align: center;
+	text-decoration: line-through;
+}
+
+body {
+	font-size: 10px;
+}
+
+h1 {
+	font-size: 5.0em;
+}
+
+p {
+	font-size: 2em;
+}
+
+span {
+	font-size: 2em;
+}
+
